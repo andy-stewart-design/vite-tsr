@@ -1,0 +1,22 @@
+[
+  {
+    "id": "category-1",
+    "name": "Category One",
+    "details": [
+      {
+        "id": "detail-1",
+        "name": "Category One, Detail One"
+      }
+    ]
+  },
+  {
+    "id": "category-2",
+    "name": "Category Two",
+    "details": [
+      {
+        "id": "detail-1",
+        "name": "Category Two, Detail One"
+      }
+    ]
+  }
+]
